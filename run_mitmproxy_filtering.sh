@@ -1,0 +1,1 @@
+mitmproxy -p 1080 --mode socks5 --scripts filter_socks5.py

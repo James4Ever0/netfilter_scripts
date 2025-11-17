@@ -1,0 +1,36 @@
+tutorial urls:
+
+https://www.codeleading.com/article/8064390745/
+https://github.com/O-X-L/nftables_addon_dns
+https://zhuanlan.zhihu.com/p/419053529
+https://openwrt.org/docs/guide-user/advanced/ipset_extras
+https://forum.openwrt.org/t/how-to-allow-certain-domains-only-with-firewall-rules/160769/11
+https://www.codeleading.com/article/8064390745/
+https://www.openappfilter.com/en/install.html
+https://openwrt.org/docs/guide-user/services/proxy/tinyproxy
+https://tinyproxy.github.io/
+https://gfw.dev/zh/docs/rules/
+https://www.ipfire.org/docs/configuration/network/proxy/url-filter
+https://blog.iamdev.cn/post/2025/%E4%BD%BF%E7%94%A8Proxy.py%E6%9E%84%E5%BB%BAPython%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B7%B1%E5%BA%A6%E6%8C%87%E5%8D%97_/
+
+project urls:
+
+https://www.ipfire.org/docs
+https://github.com/xens/squid-url-filtering
+https://github.com/Samuelson777/Basic-HTTP-Proxy-Server-with-Filtering
+https://www.urlfilterdb.com/
+https://github.com/fifthsegment/Gatesentry
+https://scapy.readthedocs.io/en/latest/
+https://pypi.org/project/scapy/
+https://www.mitmproxy.org/
+https://pypi.org/project/proxy.py/
+https://github.com/mosajjal/pproxy-docker
+https://github.com/qwj/python-proxy
+https://tinyproxy.github.io
+https://netify.ai
+https://nethsecurity.org
+https://github.com/ntop/nDPI
+https://ntop.org
+
+use complex, api level filtering through python packet filter adaptors of iptables or nftables
+provide dynamic, file based filtering.
